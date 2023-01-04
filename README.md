@@ -12,4 +12,4 @@ In my Tableau dashboard and story visualization, I have done exploration on the 
 
 - You can view the final version of my [Global Superstore Data Visualization](https://public.tableau.com/views/GlobalSuperstoreVisualization_16727990932380/Story1?:language=en-US&:display_count=n&:origin=viz_share_link) by clicking on image below:
 
-[messageImage_1672801206071](https://user-images.githubusercontent.com/89431507/210476535-aa1c8c9d-3dc2-412d-895c-47a34bceb1ec.jpg)(https://public.tableau.com/views/GlobalSuperstoreVisualization_16727990932380/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)!
+[![messageImage_1672801206071](https://user-images.githubusercontent.com/89431507/210476833-52fc6efe-8787-470c-bfc5-0ba7d317dc0c.jpg)](https://public.tableau.com/views/GlobalSuperstoreVisualization_16727990932380/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
